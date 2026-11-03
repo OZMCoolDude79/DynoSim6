@@ -1,21 +1,87 @@
-MIT License
+DYNOSIM6 END USER LICENSE AGREEMENT (EULA) AND TERMS OF SERVICE
 
-Copyright (c) 2026 CoolDude79
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING, INSTALLING, COPYING, OR USING THE DYNOSIM6 APPLICATION ("SOFTWARE"). BY DOWNLOADING, INSTALLING, ACCESSING, OR USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ALL OF ITS TERMS AND CONDITIONS.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. ACCEPTANCE OF TERMS
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+By downloading, installing, accessing, or using DynoSim6, you ("User" or "Licensee") form a legally binding contract with the copyright owner(s) and developer(s) of DynoSim6 ("Licensor," "We," "Us," or "Our").
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+If you do not agree to every term contained in this Agreement, you are strictly prohibited from downloading, installing, copying, opening, running, or otherwise using DynoSim6. You must immediately delete all copies of the Software in your possession or control.
+
+2. PROPRIETARY RIGHTS & OWNERSHIP
+
+DynoSim6, including but not limited to its source code, object code, 3D models, textures, user interface designs, visual effects, audio synthesis algorithms, sound samples, documentation, icons, brand assets, and underlying physics engines, is the exclusive intellectual property of the Licensor.
+
+The Software is protected by copyright laws, international copyright treaties, trade secret laws, and other intellectual property laws. DynoSim6 is licensed, not sold. Nothing in this Agreement transfers any title, ownership, or intellectual property rights to the User.
+
+3. GRANT OF LIMITED LICENSE
+
+Subject to your strict compliance with this Agreement, Licensor grants you a personal, non-exclusive, non-transferable, non-sublicensable, revocable license to install and run one copy of DynoSim6 solely for your personal, non-commercial, educational, or internal testing use on a compatible device.
+
+4. STRICT RESTRICTIONS ON USE (ANTI-THEFT & ANTI-REPUBLISHING)
+
+You agree that you will NOT, under any circumstances, directly or indirectly:
+
+Copy or Duplicate: Copy, duplicate, clone, replicate, or recreate the Software, its code, 3D assets, sound files, or user interface, in whole or in part.
+
+Reverse Engineer: Reverse engineer, decompile, disassemble, decrypt, extract, derive source code from, or modify the Software or any portion thereof.
+
+Republish or Redistribute: Republish, redistribute, re-upload, host, rent, lease, lend, sell, sublicense, broadcast, or transmit the Software or any of its files on any platform, website, torrent site, or public/private server.
+
+Create Derivative Works: Create any derivative works, adaptations, mods, standalone applications, or spin-offs based upon DynoSim6 or its proprietary assets.
+
+Asset Extraction: Extract, rip, dump, or export 3D engine models, textures, shaders, procedural sound algorithms, or audio files from the application directory or memory for use outside DynoSim6.
+
+Bypass Protection: Circumvent, disable, hack, or tamper with any digital rights management (DRM), license check, security system, or copy protection mechanism built into the Software.
+
+Any unauthorized use, copying, extraction, or republication of the Software constitutes copyright infringement and theft of trade secrets, exposing the violator to civil liability and criminal prosecution under applicable laws.
+
+5. DISCLAIMER OF WARRANTIES ("AS IS")
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, DYNOSIM6 IS PROVIDED TO YOU "AS IS" AND "AS AVAILABLE," WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND.
+
+LICENSOR EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO:
+
+IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+ANY WARRANTY THAT THE SOFTWARE WILL OPERATE UNINTERRUPTED, ERROR-FREE, BUG-FREE, OR WITHOUT MECHANICAL CALCULATION DISCREPANCIES.
+
+ANY WARRANTY THAT SIMULATION RESULTS (SUCH AS HORSEPOWER, TORQUE, THERMAL EMISSIONS, AIR-FUEL RATIO, OR BOOST PRESSURE) ARE ACCURATE OR REFLECT REAL-WORLD PHYSICAL CONDITIONS.
+
+6. LIMITATION OF LIABILITY (PROTECTION AGAINST LAWSUITS)
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE LICENSOR, DEVELOPERS, AFFILIATES, OR SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE, OR EXEMPLARY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO:
+
+PERSONAL INJURY OR PROPERTY DAMAGE RESULTING FROM MECHANICAL OR AUTOMOTIVE WORK PERFORMED IN REAL LIFE.
+
+ENGINE FAILURE, VEHICLE DAMAGE, COST OF REPAIR, OR SAFETY HAZARDS RESULTING FROM APPLYING DYNOSIM6 SIMULATION DATA TO REAL-WORLD VEHICLES OR ENGINES.
+
+LOSS OF PROFITS, DATA LOSS, BUSINESS INTERRUPTION, COMPUTER DAMAGE, OR SYSTEM FAILURE ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE.
+
+YOU EXPRESSLY AGREE THAT YOUR USE OF DYNOSIM6 IS ENTIRELY AT YOUR OWN RISK. DynoSim6 is a software visualizer and approximation simulator intended for entertainment and basic educational references only. Never attempt real-world automotive modifications based solely on software data without consulting a qualified real-world mechanical professional.
+
+7. INDEMNIFICATION
+
+You agree to defend, indemnify, and hold harmless the Licensor, developers, contributors, and affiliates from and against any and all claims, damages, liabilities, losses, costs, or expenses (including reasonable attorney fees) arising from:
+
+Your violation of any term in this Agreement.
+
+Your unauthorized use, redistribution, or modification of the Software or its assets.
+
+Any real-world mechanical work, vehicle tuning, or physical damage performed by you or a third party relying on simulation data from DynoSim6.
+
+8. TERMINATION
+
+This Agreement is effective from the moment you first download, install, or use DynoSim6.
+
+Your rights under this Agreement will terminate automatically and immediately without notice from the Licensor if you fail to comply with any provision of this License. Upon termination, you must cease all use of the Software and immediately uninstall and delete all copies of DynoSim6 in your possession.
+
+9. GOVERNING LAW & JURISDICTION
+
+This Agreement shall be governed by and construed in accordance with applicable copyright laws and the local laws of the jurisdiction where the Licensor resides, without regard to its conflict of law principles. Any legal action or proceeding arising under this Agreement shall be brought exclusively in the courts of the Licensor's choice.
+
+10. ENTIRE AGREEMENT & SEVERABILITY
+
+This EULA and Terms of Service constitute the entire agreement between you and the Licensor concerning DynoSim6 and supersede all prior understandings or agreements. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+BY DOWNLOADING, INSTALLING, OR RUNNING DYNOSIM6, YOU CONFIRM THAT YOU HAVE READ THIS AGREEMENT, AGREE TO ITS TERMS, AND PROMISE NOT TO COPY, STEAL, OR REPUBLISH THIS SOFTWARE OR ITS CODE.
