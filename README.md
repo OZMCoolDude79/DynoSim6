@@ -31,3 +31,5 @@ Set up intake, exhaust, and forced induction options in the configuration menu.
 Hit Start to crank the engine and establish idle.
 
 Use the throttle control to test dynamic rev response, particle behavior, and procedural audio.
+
+Original publisher: https://github.com/OZMCoolDude79/DynoSim6 
