@@ -32,6 +32,6 @@ Hit Start to crank the engine and establish idle.
 
 Use the throttle control to test dynamic rev response, particle behavior, and procedural audio.
 
-Before You Ask This Was Made With Usage Of AI
+Before You Ask This Was Made With AI Usage.
 
 Original publisher: https://github.com/OZMCoolDude79/DynoSim6 
